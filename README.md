@@ -1,6 +1,6 @@
 # Hi there, I'm Carlos de Almeida!
 
-### Aspiring Software Engineer | Backend & Full Stack Developer
+### Software Developer | Backend & Full Stack Developer
 
 I'm a final-year **Computer Science Student** at the Polytechnic Institute of Viseu, transitioning from an IT Support background to **Software Engineering**. I specialize in building robust Backend systems and scalable Full Stack applications.
 
@@ -11,7 +11,7 @@ I'm a final-year **Computer Science Student** at the Polytechnic Institute of Vi
 ---
 
 ## Tech Stack: 
-Node.js | TypeScript | PostgreSQL | AWS S3 | React
+Node.js | TypeScript | SQL | AWS S3 | React
 
 
 ---
