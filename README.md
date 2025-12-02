@@ -11,7 +11,7 @@ I'm a final-year **Computer Science Student** at the Polytechnic Institute of Vi
 ---
 
 ## Tech Stack: 
-Node.js | TypeScript | SQL | AWS S3 | React
+Node.js | TypeScript | SQL | React
 
 
 ---
