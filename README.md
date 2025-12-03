@@ -2,7 +2,7 @@
 
 ### Software Developer | Backend & Full Stack Developer
 
-I'm a final-year **Computer Science Student** at the Polytechnic Institute of Viseu, transitioning from an IT Support background to **Software Engineering**. I specialize in building robust Backend systems and scalable Full Stack applications.
+I'm a final-year **Computer Engineering Student** at the Polytechnic Institute of Viseu, transitioning from an IT Support background to **Software Engineering**. I specialize in building robust Backend systems and scalable Full Stack applications.
 
 - Currently finishing my degree..
 - Developed a Corporate E-Learning Platform in partnership with **Softinsa (IBM Subsidiary)**.
